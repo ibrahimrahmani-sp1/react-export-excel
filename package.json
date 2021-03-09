@@ -1,5 +1,5 @@
 {
-  "name": "react-export-excel",
+  "name": "@ibrahimrahmani/react-export-excel",
   "version": "0.5.3",
   "main": "dist/index.js",
   "description": "A tool to export dataset from react to excel format.",
